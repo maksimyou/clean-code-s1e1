@@ -1,12 +1,12 @@
 ul {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 li, h3 {
-  list-style:none;
+  list-style: none;
 }
 input,button{
-  outline:none;
+  outline: none;
 }
 
 /* Basic Style */
@@ -137,14 +137,14 @@ body {
 
 /* Edit Task */
 .task-input {
-  display:none
+  display: none
 }
 
 .edit-mode .task-input {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .edit-mode .task {
-  display:none;
+  display: none;
 }
